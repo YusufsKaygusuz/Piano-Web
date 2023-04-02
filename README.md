@@ -4,6 +4,9 @@
 
 🎵 Bu JavaScript uygulaması, bir piyano klavyesi üzerinde tuşa basıldığında ses çalabilen basit bir uygulamadır.
 
+![image](https://user-images.githubusercontent.com/86704802/229381949-f2abb167-3c25-44cf-8792-d7451ee4275a.png)
+
+
 <h3>Nasıl Kullanılır</h3>
 <p>🎹 Klavyeden bir tuşa basarak veya fareyle bir tuşa tıklayarak bir not çalabilirsiniz.</p>
 <p>🔊 Sesi ayarlamak için ses kaydırıcısını kullanabilirsiniz.</p>
